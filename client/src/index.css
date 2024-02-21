@@ -93,7 +93,7 @@ button:hover {
   position: relative;
   background-color: #BC6C25;
   width: 400px;
-  height: 400px;
+  /* height: 400px; */
   padding: 10px;
 }
 
