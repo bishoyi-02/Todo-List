@@ -17,7 +17,6 @@
 - ### Get the existing to-do notes list
 - ### Delete an existing to-do note
 - ### Create mulitple to-do notes
-- ### Upload an image
 - ### Uses Joi Pacakge for input verification
 
 &nbsp; 
